@@ -1,0 +1,20 @@
+{
+    "people": [
+        {
+            "name": "Wanyua",
+            "age": 23
+        },
+        {
+            "name": "Gitau",
+            "age": 25
+        },
+        {
+            "name": "Kamau",
+            "age": 43
+        },
+        {
+            "name": "Kagera",
+            "age": 54
+        }
+    ]
+}
